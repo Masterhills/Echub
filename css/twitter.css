@@ -1,0 +1,54 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding: 0;
+}
+.container_body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fa-hashtag{
+    color: black;
+    font-size: 20px;
+    padding-right:12px;
+}
+.fa-bell{
+    font-size: 20px;
+}
+.container{
+    padding-left:50px;
+}
+.list li{
+    padding:10px;
+    list-style-type: none;
+}
+aside{
+    padding-right: 100px;
+}
+.trending{
+    padding:10px;
+    list-style-type: none;
+}
+.trending li{
+    padding:10px;
+}
+.logo{
+    padding-bottom: 20px;
+}
+.fa-twitter{
+    font-size:30px;
+    color: #1DA1F2;
+}
+section{
+    width:60%;
+    height:900px;
+    background-color: #1DA1F2;
+}
+.top_section{
+    margin-left: 100px;
+}
+
+body{
+    font-family: Helvetica, sans-serif; 
+}
